@@ -7,6 +7,6 @@ Use Python to Analyst and create maket basket anlysis model (Association Rule) t
 ## Assignment09: Campaign Response Analysis
 Use RFM analysis to create Feature Engineering for predict Classification model and use technical sampling technical to solve imbalance data by python.
 ## Assignment11: Customer Movement
-Use Google Bigquery to visual customers movement (Churn customers, New customers, Old customers).
+Use Google Bigquery to visual customers movement (Churn customers, New customers, Repeat customers, Reactive customers).
 ## Assignment12: Topic Modeling and Latent Dirichlet Allocation (LDA)
 Use Wongnai Dataset to find the most important keywords of restaurants from comment of customers.
